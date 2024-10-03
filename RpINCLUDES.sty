@@ -1,0 +1,27 @@
+\ProvidesPackage{RpINCLUDES}
+
+\usepackage{graphicx} % Required for inserting images
+\usepackage{amsmath}
+\usepackage{geometry}
+\usepackage{ragged2e}
+\usepackage{background}
+\usepackage{indentfirst}
+\usepackage{enumitem}
+\usepackage{varwidth}
+\usepackage{tasks}
+\usepackage[portuguese]{babel}
+\usetikzlibrary{calc}
+
+\backgroundsetup{angle = 0, scale = 1, vshift = -2ex,
+  contents = {\tikz[overlay, remember picture]
+    \draw [rounded corners = 0pt, line width = 1pt,
+           color = black, fill = white, double = blue!10]
+           ($(current page.north west)+(1cm,-1cm)$)
+           rectangle ($(current page.south east)+(-1,1)$);}}
+
+\geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=20mm,
+ top=25mm,
+ }
