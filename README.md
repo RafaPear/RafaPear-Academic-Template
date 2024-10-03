@@ -53,6 +53,11 @@ Este projeto é ideal para quem deseja produzir documentos de forma eficiente e 
    ```bash
    git clone https://github.com/yourusername/RafaPear-Academic-Template.git
 
+2. Use, edit and do whatever you want with the template!
+
+### 📖 License
+
+This project has the MIT
 
 ## Português
 
