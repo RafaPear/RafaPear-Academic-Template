@@ -78,3 +78,9 @@ See file: [License](LICENSE.md)
 1. Faça o download ou clone este repositório:
    ```bash
    git clone https://github.com/seuusuario/RafaPear-Academic-Template.git
+
+2. Usa, edita e transforma a template no que quiseres!
+
+### 📖 Licença
+
+Ver ficheiro: [Licença](LICENSE.md)
