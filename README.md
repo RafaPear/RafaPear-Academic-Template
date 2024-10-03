@@ -57,7 +57,7 @@ Este projeto é ideal para quem deseja produzir documentos de forma eficiente e 
 
 ### 📖 License
 
-This project has the MIT
+See file: [License](LICENSE.md)
 
 ## Português
 
