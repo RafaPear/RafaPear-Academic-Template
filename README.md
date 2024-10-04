@@ -1,6 +1,6 @@
 # 🎓 RafaPear-Academic-Template 📚
 
-## English
+## About
 
 **RafaPear-Academic-Template** is a LaTeX template designed to facilitate the creation of high-quality academic documents, such as reports, theses, and dissertations. This template is intended for students and professionals who wish to maintain a professional standard in their documents without worrying about the technical details of formatting.
 
@@ -8,7 +8,7 @@ The template follows best typography practices, ensuring a clear and coherent pr
 
 This project is ideal for anyone looking to produce documents efficiently and consistently, whether for academic submissions, scientific publications, or research projects.
 
-## Português
+## Sobre
 
 **RafaPear-Academic-Template** é uma template desenvolvida em LaTeX com o objetivo de facilitar a criação de documentos acadêmicos de alta qualidade, como relatórios, teses e dissertações. Esta template foi projetada para estudantes e profissionais que desejam manter um padrão profissional em seus documentos, sem se preocupar com os detalhes técnicos da formatação.
 
@@ -21,15 +21,15 @@ Este projeto é ideal para quem deseja produzir documentos de forma eficiente e 
 ## 📖 Index/Índice
 
 - [English](#english)
-  - [Included Files](#included-files)
-  - [Features](#features)
-  - [How to Use](#how-to-use)
-  - [License](#license)
+  - [Included Files](#-included-files)
+  - [Features](#-features)
+  - [How to Use](#-how-to-use)
+  - [License](#-license)
 - [Português](#português)
-  - [Ficheiros Incluídos](#ficheiros-incluídos)
-  - [Características](#características)
-  - [Como Utilizar](#como-utilizar)
-  - [Licença](#licença)
+  - [Ficheiros Incluídos](#-ficheiros-incluídos)
+  - [Características](#-características)
+  - [Como Utilizar](#-como-utilizar)
+  - [Licença](#-licença)
 
 ---
 
